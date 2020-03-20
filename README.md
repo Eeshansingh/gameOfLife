@@ -4,6 +4,6 @@ For JDE Robot python challenge
 Sample Results:
 
 
-![](Bellerin.gif)"Bellerin"
+![](Bellerin.gif)       "Bellerin"
 
-![](Aubameyang.gif)"Aubameyang"
+![](Aubameyang.gif)      "Aubameyang"
